@@ -1,8 +1,6 @@
  //Com port SCI0 initialization and commands
 //Processor:  MC9S12XDP512
 //Crystal:  16 MHz
-//by Carter Kozakevich
-//Oct 2017
 
 void SCI0_Init(unsigned long);	//any valid baud rate can be passed to this; 8-bit, 1 Stop, No parity, no interrupts
 void SCI0_Init9600(void);		//8-bit, 1 Stop, No parity, no interrupts

@@ -1,8 +1,6 @@
  //Com port SCI0 initialization and commands
 //Processor:  MC9S12XDP512
 //Crystal:  16 MHz
-//by Carter Kozakevich
-//Oct 2017
 
 #include <hidef.h>
 #include "derivative.h"

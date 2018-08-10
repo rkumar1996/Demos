@@ -1,8 +1,6 @@
 //Switches and LEDs 
 //Processor:  MC9S12XDP512 
 //Crystal:  16 MHz 
-//by Carter Kozakevich
-//September 2017 
 
 
 #include <hidef.h>

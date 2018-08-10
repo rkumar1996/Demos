@@ -1,8 +1,6 @@
 //Miscellaneous generally-useful routines
 //Processor:  MC9S12XDP512
 //Crystal:  16 MHz
-//by Carter Kozakevich
-//September 2017
 
 //Binary-Coded Decimal conversion routines
 

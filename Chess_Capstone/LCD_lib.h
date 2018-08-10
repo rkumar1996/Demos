@@ -1,7 +1,6 @@
         //Hitachi 44780 initialization and commands
 //Processor:  MC9S12XDP512
 //Crystal:  16 MHz
-//by P Ross Taylor
 //May 2015
 
 void LCD_Init(void);			//8-bit, 2-line, 5x8 chars, disp on, curs on, blink off, inc curs mode, no shift, clear, home

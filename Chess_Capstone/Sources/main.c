@@ -2,7 +2,7 @@
 // HC12 Program: ICA19
 // Processor:		MC9S12XDP512
 // Xtal Speed:		16 MHz
-// Author:			Carter Kozakevich  & Reeshav
+// Author:			Reeshav Kumar & Carter Kozakevich   
 
 /********************************************************************/
 
