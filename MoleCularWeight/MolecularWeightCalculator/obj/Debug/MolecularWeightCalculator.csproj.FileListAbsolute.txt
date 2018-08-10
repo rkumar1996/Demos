@@ -1,0 +1,9 @@
+C:\Users\Reeshav\Desktop\MoleCularWeight\MolecularWeightCalculator\bin\Debug\MolecularWeightCalculator.exe.config
+C:\Users\Reeshav\Desktop\MoleCularWeight\MolecularWeightCalculator\bin\Debug\MolecularWeightCalculator.exe
+C:\Users\Reeshav\Desktop\MoleCularWeight\MolecularWeightCalculator\bin\Debug\MolecularWeightCalculator.pdb
+C:\Users\Reeshav\Desktop\MoleCularWeight\MolecularWeightCalculator\obj\Debug\MolecularWeightCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Reeshav\Desktop\MoleCularWeight\MolecularWeightCalculator\obj\Debug\MolecularWeightCalculator.MolecularWeightCalculator.resources
+C:\Users\Reeshav\Desktop\MoleCularWeight\MolecularWeightCalculator\obj\Debug\MolecularWeightCalculator.Properties.Resources.resources
+C:\Users\Reeshav\Desktop\MoleCularWeight\MolecularWeightCalculator\obj\Debug\MolecularWeightCalculator.csproj.GenerateResource.Cache
+C:\Users\Reeshav\Desktop\MoleCularWeight\MolecularWeightCalculator\obj\Debug\MolecularWeightCalculator.exe
+C:\Users\Reeshav\Desktop\MoleCularWeight\MolecularWeightCalculator\obj\Debug\MolecularWeightCalculator.pdb
