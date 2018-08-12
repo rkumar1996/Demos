@@ -7,3 +7,16 @@ This code was written for the MS9S12X microboard which acts as the brains for th
 The code is neatly distributed among the libraries created for the specific opertaions for the microboard.
 
 This solution was created by me and my project partner Carter Kozakevich
+
+
+Language: C
+
+Skills Demonstrated ==>
+
+- Microboard Integration
+
+- Serial Commnication 
+
+- Code Design
+
+- Electronics
