@@ -24,3 +24,5 @@ Skills Demonstrated ==>
 -Input Management
 
 -GDI+
+
+-Multithreading
