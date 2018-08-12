@@ -20,3 +20,6 @@ Skills Demonstrated ==>
 - Code Design
 
 - Electronics
+
+
+Please check out the media folder for the final report of the project and working presentation.
