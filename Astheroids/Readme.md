@@ -9,3 +9,18 @@ Move: W,A,S,D
 Shoot: LShift
 
 Pause: P
+
+
+
+
+Language : C#
+
+Skills Demonstrated ==>
+
+-Object Oriented Programming
+
+-Polymorphism / Inheritence
+
+-Input Management
+
+-GDI+
