@@ -12,3 +12,5 @@ Skills Demonstrated ==>
 - Windows Forms
 
 - UI Design
+
+- Data Grid View control
