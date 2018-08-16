@@ -1,14 +1,3 @@
-﻿/*********************************************************
- *  Assignment: Molecular Mass Calculator
- *  Written by: Karun Kakulphimp
- *              Reeshav Kumar
- *              Felipe Restrepo Rubio
- *  Description:
- *      This program allows the user to input the formula
- *      for a chemical compound which will then be parsed
- *      into its separate elements and a total g/mol is
- *      calculated and displayed for the user.
-**********************************************************/
 
 using System;
 using System.Collections.Generic;
