@@ -2,12 +2,8 @@
  * Program     : Astheroids 
  * Description : This game allows the user to move the ship around the form while trying to evade the moving asteroids around the screen. The 
  *               player has the ability to shoot bullets and kill asteroids. The inputs are taken care of by the input library
- * Date:         3/13/2018
- * Author:       Reeshav Kumar
- * Course:       CMPE2800
- * Class:        A02
- * Instructor:   Simon Walker
- */
+ * Author:       Reeshav 
+ */ 
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
